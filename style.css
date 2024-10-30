@@ -13,7 +13,6 @@
     flex-basis: 100%;
     
 }
-
 @media (min-width:1200px) {
     .galerie-item {
         flex-basis: 24%;
@@ -42,4 +41,7 @@ h1 {
     border: 5px solid black;
     box-shadow: 8px 8px 5px black, 8px 8px 5px gold;
     position: relative;
+}
+footer {
+    text-align: center;
 }
